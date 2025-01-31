@@ -1,6 +1,5 @@
 # Config files and experiment data
 .DS_Store
 .idea
-Data/*
 !/Data/Instructions
 !/Data/Params
