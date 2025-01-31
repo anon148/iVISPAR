@@ -29,8 +29,8 @@ The benchmark supports evaluation through both visual modality and text-based re
 ## Table of Contents
 1. [Features](#joystick-features)
 2. [Environments](#video_game-puzzle-environments)
-3. [Results](#test_tube-results)
-4. [Leaderboard](#trophy-leaderboard)
+3. [Leaderboard](#trophy-leaderboard)
+4. [Results](#test_tube-results)
 5. [Overview](#mount_fuji-overview)
 6. [Setup](#package-setup)
 7. [Quick Start](#rocket-quick-start)
