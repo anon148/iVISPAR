@@ -239,7 +239,7 @@ iVISPAR has minimal dependencies and can be easily set up and run in just a few 
 Clone the repository.
 
 ```bash
-git clone https://github.com/SharkyBamboozle/iVISPAR.git
+git clone https://github.com/anon148/iVISPAR.git
 cd iVISPAR
 ```
 
